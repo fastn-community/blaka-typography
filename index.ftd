@@ -20,8 +20,8 @@ name: fastn-community.github.io/blaka-typography
 
 This FTD font `blaka-typography` can be used for your ftd web projects. 
 
-You can use this blaka-typography inside the `FTD` project. Follow below instructions
-to use this font package.
+You can use this blaka-typography inside the `FTD` project. Follow below
+instructions to use this font package.
 
 -- ds.h3: How to use blaka-typography?
 
@@ -61,9 +61,9 @@ types: $blaka-typography.types
 
 -- ds.markdown: 
 
-Once you add `types: blaka-typography.types` inside your ftd file, blaka-typography will
-be added as fastn default typography to your `ds.page` and to all components you
-add inside `ds.page`.
+Once you add `types: blaka-typography.types` inside your ftd file,
+blaka-typography will be added as fastn default typography to your `ds.page`
+and to all components you add inside `ds.page`.
 
 Done! isn't it simple? Try this and don't forget to jump on our [Discord](https://discord.gg/bucrdvptYd)
 
